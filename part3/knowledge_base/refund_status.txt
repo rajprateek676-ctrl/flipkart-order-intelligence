@@ -1,0 +1,1 @@
+After a return is approved and processed, refund status can be checked from the order details page. Bank or payment-provider posting time can vary after the refund is initiated.

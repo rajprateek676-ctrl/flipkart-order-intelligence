@@ -1,0 +1,1 @@
+For COD orders, an approved refund is processed after the returned item passes the required checks. The refund timeline depends on the selected refund method and banking partner.

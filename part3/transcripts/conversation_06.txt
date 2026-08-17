@@ -1,0 +1,4 @@
+﻿FRESH CONVERSATION RESET
+User: What about that order?
+Agent: {"answer":"The order page is the final source for exchange eligibility.","source":"policy_kb","confidence":0.39}
+State: {"last_intent":"policy","last_policy_document":"exchange.txt"}

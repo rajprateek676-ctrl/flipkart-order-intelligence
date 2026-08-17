@@ -1,0 +1,1 @@
+Reverse pickup is offered when the order and PIN code are eligible and the item meets return conditions. Pickup availability can vary by courier coverage and item type.

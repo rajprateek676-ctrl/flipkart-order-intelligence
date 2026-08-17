@@ -1,0 +1,1 @@
+Delivery estimates are shown on the order page and can vary by seller, destination, stock and courier capacity. Delays may occur because of weather, operational disruption or remote locations.

@@ -1,0 +1,38 @@
+[
+  {
+    "query": "What is the return window for apparel?",
+    "relevant_documents": [
+      "apparel_return.txt"
+    ]
+  },
+  {
+    "query": "How does COD refund timing work?",
+    "relevant_documents": [
+      "cod_refund.txt"
+    ]
+  },
+  {
+    "query": "What affects delivery timing?",
+    "relevant_documents": [
+      "delivery_sla.txt"
+    ]
+  },
+  {
+    "query": "When is reverse pickup available?",
+    "relevant_documents": [
+      "reverse_pickup.txt"
+    ]
+  },
+  {
+    "query": "What condition should a returned product be in?",
+    "relevant_documents": [
+      "return_condition.txt"
+    ]
+  },
+  {
+    "query": "What should I do if the item is damaged?",
+    "relevant_documents": [
+      "damaged_item.txt"
+    ]
+  }
+]

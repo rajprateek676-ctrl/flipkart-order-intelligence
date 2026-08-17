@@ -1,0 +1,24 @@
+{
+  "part1": [
+    "generate_orders.py",
+    "orders_dataset.csv",
+    "part1/train.py",
+    "part1/evaluate.py",
+    "models/return_risk_model.pkl"
+  ],
+  "part2": [
+    "part2/train.py",
+    "part2/evaluate.py",
+    "models/product_classifier.pt",
+    "part2/confusion_matrix.txt",
+    "data/sample_images/"
+  ],
+  "part3": [
+    "part3/knowledge_base/",
+    "part3/build_index.py",
+    "part3/tools.py",
+    "part3/agent.py",
+    "part3/evaluate_retrieval.py",
+    "part3/transcripts/"
+  ]
+}

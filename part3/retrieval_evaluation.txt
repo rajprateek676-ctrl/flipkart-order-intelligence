@@ -1,0 +1,40 @@
+RETRIEVAL EVALUATION (DOCUMENT LEVEL)
+
+Query: What is the return window for apparel?
+Relevant: ['apparel_return.txt']
+Top-3 documents: ['apparel_return.txt', 'return_condition.txt']
+Precision@3 = 0.3333
+Recall@3 = 1.0000
+
+Query: How does COD refund timing work?
+Relevant: ['cod_refund.txt']
+Top-3 documents: ['cod_refund.txt', 'refund_status.txt']
+Precision@3 = 0.3333
+Recall@3 = 1.0000
+
+Query: What affects delivery timing?
+Relevant: ['delivery_sla.txt']
+Top-3 documents: ['delivery_sla.txt', 'reverse_pickup.txt']
+Precision@3 = 0.3333
+Recall@3 = 1.0000
+
+Query: When is reverse pickup available?
+Relevant: ['reverse_pickup.txt']
+Top-3 documents: ['reverse_pickup.txt', 'electronics_return.txt']
+Precision@3 = 0.3333
+Recall@3 = 1.0000
+
+Query: What condition should a returned product be in?
+Relevant: ['return_condition.txt']
+Top-3 documents: ['electronics_return.txt', 'return_condition.txt', 'seller_policy.txt']
+Precision@3 = 0.3333
+Recall@3 = 1.0000
+
+Query: What should I do if the item is damaged?
+Relevant: ['damaged_item.txt']
+Top-3 documents: ['damaged_item.txt', 'electronics_return.txt', 'return_condition.txt']
+Precision@3 = 0.3333
+Recall@3 = 1.0000
+
+Average Precision@3 = 0.3333
+Average Recall@3 = 1.0000

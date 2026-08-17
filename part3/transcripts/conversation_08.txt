@@ -1,0 +1,3 @@
+﻿UNGROUNDED POLICY QUESTION
+User: What is the policy for moon deliveries?
+Agent: {"answer":"I can’t answer that from the policy knowledge base. Best similarity=0.323 and threshold=0.35.","source":"policy_kb","confidence":0.0}

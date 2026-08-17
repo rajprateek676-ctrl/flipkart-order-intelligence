@@ -1,0 +1,3 @@
+﻿PRODUCT CATEGORY
+User: What category is this image?
+Agent: {"answer":"The predicted category is Ankle boot with confidence 0.929.","source":"image_classifier_tool","confidence":0.929}

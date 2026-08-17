@@ -1,0 +1,8 @@
+﻿MULTI-TURN STATE
+Turn 1 - User: Check order 1001 for return risk.
+Turn 1 - Agent: {"answer":"Please provide the order features needed for return-risk scoring.","source":"return_risk_tool","confidence":0.0}
+Turn 1 State: {"last_intent":"return_risk"}
+
+Turn 2 - User: What about that order?
+Turn 2 - Agent: {"answer":"The order page is the final source for exchange eligibility.","source":"policy_kb","confidence":0.39}
+Turn 2 State: {"last_intent":"policy","last_policy_document":"exchange.txt"}

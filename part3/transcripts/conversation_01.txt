@@ -1,0 +1,3 @@
+﻿POLICY — apparel return window
+User: What is the return window for apparel?
+Agent: {"answer":"Apparel and footwear items are generally eligible for return within 7 days of delivery when unused and in original condition","source":"policy_kb","confidence":0.582}

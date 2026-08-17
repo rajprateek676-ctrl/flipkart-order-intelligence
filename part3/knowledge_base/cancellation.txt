@@ -1,0 +1,1 @@
+Order cancellation is possible before dispatch when the order page provides a cancellation option. After dispatch, cancellation may no longer be available and return rules may apply.
