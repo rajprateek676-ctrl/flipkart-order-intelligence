@@ -147,3 +147,5 @@ git push origin feature/part3-agent
 ## Submission
 
 Submit exactly one public GitHub repository URL. Do not submit separate Part 1/2/3 links or PDF/document exports.
+
+Part 3 agent and transcript evidence completed.
