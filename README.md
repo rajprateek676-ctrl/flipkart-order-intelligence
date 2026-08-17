@@ -149,3 +149,12 @@ git push origin feature/part3-agent
 Submit exactly one public GitHub repository URL. Do not submit separate Part 1/2/3 links or PDF/document exports.
 
 Part 3 agent and transcript evidence completed.
+
+## Full Example Agent Transcript
+
+User: What is the return window for apparel?
+
+Agent:
+{"answer":"Apparel and footwear items are generally eligible for return within 7 days of delivery when unused and in original condition","source":"policy_kb","confidence":0.582}
+
+This transcript was produced by running the local deterministic MOCK_LLM agent against the repository's policy knowledge base.
